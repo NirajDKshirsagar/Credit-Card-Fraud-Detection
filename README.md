@@ -14,7 +14,7 @@ The goal of this project is to simulate a **real-world fintech fraud detection w
 
 # Dataset
 
-The dataset used in this project is the **Credit Card Fraud Detection Dataset** from kaggle, which contains transactions made by European cardholders.
+The dataset used in this project is the **Credit Card Fraud Detection Dataset** from kaggle(https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud), which contains transactions made by European cardholders.
 
 Credit Card Fraud Detection Dataset
 
